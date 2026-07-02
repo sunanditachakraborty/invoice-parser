@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+huggingface-hub
+Pillow
+openpyxl
+pandas
+python-multipart
+requests
+safetensors
